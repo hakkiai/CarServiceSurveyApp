@@ -1,4 +1,4 @@
-# 🚗 Car Service Survey App
+# Car Service Survey App
 
 A simple and clean iOS app built to collect car service feedback and view responses in an organized way.
 
@@ -31,7 +31,7 @@ The goal of this project was to practice building a complete app from scratch �
 
 You can find the detailed project documentation here:
 
-👉 [Project Documentation (PDF)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+👉 [Project Documentation](https://drive.google.com/file/d/16CZspajGVS-KD8Np0NHfksWLT4HIo6R_/view?usp=sharing)
 
 ---
 
