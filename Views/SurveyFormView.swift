@@ -312,7 +312,7 @@ struct DatePickerRow: View {
                 .frame(width: 24)
             Text(title)
             Spacer()
-            DatePicker("", selection: $date, displayedComponents: .date)
+            DatePicker("", selection: $date, in:...Date(), displayedComponents: .date)
                 .labelsHidden()
         }
     }
